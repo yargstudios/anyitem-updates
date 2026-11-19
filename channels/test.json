@@ -1,12 +1,11 @@
 {
-  "version": "2026.11.19.6",
-  "page": "pages/2026.11.19.6.html",
-  "sha256": "56adb70a7032475e20b4dc51e99a54908ac7089a0f30181c8dc67c119d1d467e",
+  "version": "2026.11.19.7",
+  "page": "pages/2026.11.19.7.html",
+  "sha256": "e205ccbcefc24a7c5440e943dea7e8946070cb3f80ffbbd54013e9f89f4160ea",
   "notes": [
-    "Scanning QR codes on drinks and snacks (like Gatorade) finds the product when its page carries the barcode number",
-    "Pages that don't say what the product is no longer name the item"
+    "A QR code's web address is no longer used as the item's name"
   ],
-  "sig": "+TuYc/46ER2G1j8WCm3LF+64gautVEmrGUELNYi2nSzEsuZ9/Mu+Vgmcov/1C7hJfF3s8cLoYvUldjD5bMM0Ag==",
+  "sig": "Etxvlb8BIEBBo5hcDDltTN7QMVpuj7B5CJzAHM7igWk1PVkSg3b9pirsU194pwpM7enR69uxil1cVJTswR3SAw==",
   "channel": "test",
-  "published": "2026-11-19T10:49:58.454Z"
+  "published": "2026-11-19T10:54:16.083Z"
 }

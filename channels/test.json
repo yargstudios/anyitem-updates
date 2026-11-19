@@ -1,12 +1,11 @@
 {
-  "version": "2026.11.19.1",
-  "page": "pages/2026.11.19.1.html",
-  "sha256": "87ebe6437a112979d6d3e08e14ca13f10050e431a071dbfcee3081f5ce5f29b9",
+  "version": "2026.11.19.2",
+  "page": "pages/2026.11.19.2.html",
+  "sha256": "e1720f8c9950e2a37214622d0c34a692622681bffabdfc092cade52cc8b9b0a6",
   "notes": [
-    "AnyItem now updates itself",
-    "Drag-select can start from the top of a sheet"
+    "The update screens are now translated into every language AnyItem offers"
   ],
-  "sig": "UnGwH5YFR+EACgHlpV2wcMaekLnMpypbZQppnbhmXbSWGzUyBt1i5fI6kcpkm77Z4mxs/FoCfg/kzhQiGkrrBQ==",
+  "sig": "KnJ2rgPRTlT/WMYCJy9F1GgROFcZlfPc5iXu4TLKgiUKIKeCn20/SbkaWcux+E5WIKl89CPr4/7hZQkxIGymDQ==",
   "channel": "test",
-  "published": "2026-11-19T05:08:10.467Z"
+  "published": "2026-11-19T06:36:28.838Z"
 }

@@ -1,11 +1,12 @@
 {
-  "version": "2026.11.19.4",
-  "page": "pages/2026.11.19.4.html",
-  "sha256": "a397bbd17d924e1cbd0128c6e75eff34de5d3a5e7cccb3a5a27870084d780eab",
+  "version": "2026.11.19.5",
+  "page": "pages/2026.11.19.5.html",
+  "sha256": "2f009cd2eafe09a6c31bc3e378936bc28dbb2c12a03cd32110f2b06bd15ef2df",
   "notes": [
-    "Scanning a printed QR label finds the right item again, even after copying items or changing the item's QR code"
+    "QR codes on packaging that only go to a brand's website no longer name the item after the website's slogan",
+    "If a QR code leads to a page with the product's barcode number, AnyItem looks the product up by it"
   ],
-  "sig": "1+qR2nIAYl6SmizRE9zRQsHOU+YjAvatrki+YmLeKYpRJChq48cbpvWdhCFhzE//jKeBlGW3ROb1R7rx6nUoAg==",
+  "sig": "wWC/7vZWqyjZP4rEnP70Z6koWXKpe/xQyeAPD/pw/J1Jvj3fAazKeJh4/Pn2WDwYk+Y+tDRjhUeSh96yJDUrCA==",
   "channel": "test",
-  "published": "2026-11-19T10:08:04.332Z"
+  "published": "2026-11-19T10:43:30.142Z"
 }

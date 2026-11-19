@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.19.2",
-  "page": "pages/2026.11.19.2.html",
-  "sha256": "e1720f8c9950e2a37214622d0c34a692622681bffabdfc092cade52cc8b9b0a6",
+  "version": "2026.11.19.3",
+  "page": "pages/2026.11.19.3.html",
+  "sha256": "56e64da5bb9c843f8fa72771423caef41d4dfa42cb4e4fd63c9d688893d5a754",
   "notes": [
-    "The update screens are now translated into every language AnyItem offers"
+    "The Restart button is easier to read in the Night and Black looks"
   ],
-  "sig": "KnJ2rgPRTlT/WMYCJy9F1GgROFcZlfPc5iXu4TLKgiUKIKeCn20/SbkaWcux+E5WIKl89CPr4/7hZQkxIGymDQ==",
+  "sig": "h3qOcnu9o2L2ditebpVOUUDPfCGZB8Ow6OuJ0DAZPELaaO2p9q6PFlobDu7waDsFTT0zTv1lc9Wl+FUxGMTlCQ==",
   "channel": "test",
-  "published": "2026-11-19T06:36:28.838Z"
+  "published": "2026-11-19T06:41:47.115Z"
 }

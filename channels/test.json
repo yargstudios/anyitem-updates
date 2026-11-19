@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.19.7",
-  "page": "pages/2026.11.19.7.html",
-  "sha256": "e205ccbcefc24a7c5440e943dea7e8946070cb3f80ffbbd54013e9f89f4160ea",
+  "version": "2026.11.19.8",
+  "page": "pages/2026.11.19.8.html",
+  "sha256": "3f37dd11ed5cb558d7dd486cec0f64c112b7409ae30687eeffd6994d636f277d",
   "notes": [
-    "A QR code's web address is no longer used as the item's name"
+    "A QR code that only goes to a brand's website now keeps you on the scanner and asks for the barcode instead"
   ],
-  "sig": "Etxvlb8BIEBBo5hcDDltTN7QMVpuj7B5CJzAHM7igWk1PVkSg3b9pirsU194pwpM7enR69uxil1cVJTswR3SAw==",
+  "sig": "n/pKaUT5Oyz9opT0tbowgv2C6aQyZps3fKDDQAbvBLdMrudH5dapM8uT9NJ43xeH1DsDzXb+XqzfefyXkpfCDA==",
   "channel": "test",
-  "published": "2026-11-19T10:54:16.083Z"
+  "published": "2026-11-19T11:02:56.041Z"
 }

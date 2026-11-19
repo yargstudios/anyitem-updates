@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.19.5",
-  "page": "pages/2026.11.19.5.html",
-  "sha256": "2f009cd2eafe09a6c31bc3e378936bc28dbb2c12a03cd32110f2b06bd15ef2df",
+  "version": "2026.11.19.6",
+  "page": "pages/2026.11.19.6.html",
+  "sha256": "56adb70a7032475e20b4dc51e99a54908ac7089a0f30181c8dc67c119d1d467e",
   "notes": [
-    "QR codes on packaging that only go to a brand's website no longer name the item after the website's slogan",
-    "If a QR code leads to a page with the product's barcode number, AnyItem looks the product up by it"
+    "Scanning QR codes on drinks and snacks (like Gatorade) finds the product when its page carries the barcode number",
+    "Pages that don't say what the product is no longer name the item"
   ],
-  "sig": "wWC/7vZWqyjZP4rEnP70Z6koWXKpe/xQyeAPD/pw/J1Jvj3fAazKeJh4/Pn2WDwYk+Y+tDRjhUeSh96yJDUrCA==",
+  "sig": "+TuYc/46ER2G1j8WCm3LF+64gautVEmrGUELNYi2nSzEsuZ9/Mu+Vgmcov/1C7hJfF3s8cLoYvUldjD5bMM0Ag==",
   "channel": "test",
-  "published": "2026-11-19T10:43:30.142Z"
+  "published": "2026-11-19T10:49:58.454Z"
 }

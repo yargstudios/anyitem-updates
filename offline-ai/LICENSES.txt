@@ -1,0 +1,15 @@
+Offline item finder (used by Scan › Photo when there is no internet or Claude key)
+
+- TensorFlow.js 4.22.0 — Apache License 2.0 — https://github.com/tensorflow/tfjs
+- CenterNet (MobileNet-v3) COCO object detector, TF.js conversion from vladmandic/human-models — MIT License
+  https://github.com/vladmandic/human-models
+- Darknet Tiny ImageNet classifier, TF.js conversion from ml5js/ml5-data-and-models — MIT License
+  https://github.com/ml5js/ml5-data-and-models
+- COCO and ImageNet class names from the projects above.
+- ONNX Runtime Web 1.20.1 — MIT License — https://github.com/microsoft/onnxruntime
+- EfficientNet-Lite4 (int8) ImageNet classifier from the ONNX Model Zoo — Apache License 2.0
+  https://github.com/onnx/models
+- D-FINE-M object detector trained on Objects365 — code Apache License 2.0 — https://github.com/Peterande/D-FINE
+  (Objects365-trained weights follow the Objects365 dataset terms: personal and research use)
+- OpenCLIP ViT-B/16 trained on LAION-400M (int8) — MIT License — https://github.com/mlfoundations/open_clip
+- The household item list (clip-vocab.json) was written for AnyItem.

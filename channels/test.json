@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.21.8",
-  "page": "pages/2026.11.21.8.html",
-  "sha256": "7b49d33a7917b292027b1d9a80b5fea3787a51f98caa008016da2395d0e13a95",
+  "version": "2026.11.21.10",
+  "page": "pages/2026.11.21.10.html",
+  "sha256": "072d7b723eee81761c1c895f28857c230165f7c36435078fb61b74c506c7e85b",
   "notes": [
-    "If Google asks you to sign in or prove you're not a robot while finding a picture or product, the search switches to Bing",
-    "Searching by photo switches to Bing the same way"
+    "Fixed a problem message that could appear when picking a suggestion while typing",
+    "If Google asks you to sign in or prove you're not a robot, the search switches to Bing"
   ],
-  "sig": "z8YO9UKVTp2skRIqRRyqZIGbU9VIO4R76Sz9MfdARY2VHL3vibYapkCNZKxawLKszh1BI5JBrGCEuSVqrdHUDA==",
+  "sig": "9Kp9kXY0begQrtrO31Z5QyKqMhQXcRkmZ2qH6ouwX4FBcG2Mh2CqRGaGj1h6T7wkohP/0N/c2dtnk+NMhINrAA==",
   "channel": "test",
-  "published": "2026-11-20T07:14:33.551Z"
+  "published": "2026-11-20T07:54:51.790Z"
 }

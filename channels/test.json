@@ -1,12 +1,11 @@
 {
-  "version": "2026.11.21.15",
-  "page": "pages/2026.11.21.15.html",
-  "sha256": "c1d3589d9b225f876b5aab0ab8c8d392c571dc6a1159291e302b098bf89ac913",
+  "version": "2026.11.21.16",
+  "page": "pages/2026.11.21.16.html",
+  "sha256": "fd4e7d10604129cbe4b80cc2b06409d0b950ab9bba6f0a686e615d9fd010b244",
   "notes": [
-    "Expense categories and tags are picked from AnyItem's own list",
-    "The sheets page now keeps its own zoom"
+    "Opening or closing the sidebar no longer squeezes a module's toolbar or stops its zoom"
   ],
-  "sig": "L5EAV4Zf7y/iBgnN+NeRLf5Q7E+cHOLP4guBANUrqAQ96AzOB9FXd/fevWQCoOfkPKBjcovYLhYWvFogAnf6Cw==",
+  "sig": "kRTxHVCNDvg2yAqHLS9PA9poL+P+LJLSBk5SlqZw0aiUAbGggFD8sRPWzW5MiVCIlOmajdI9eQad/5rR+R+sCg==",
   "channel": "test",
-  "published": "2026-11-20T12:21:02.741Z"
+  "published": "2026-11-20T12:59:16.644Z"
 }

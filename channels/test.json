@@ -1,11 +1,12 @@
 {
-  "version": "2026.11.19.8",
-  "page": "pages/2026.11.19.8.html",
-  "sha256": "3f37dd11ed5cb558d7dd486cec0f64c112b7409ae30687eeffd6994d636f277d",
+  "version": "2026.11.21.3",
+  "page": "pages/2026.11.21.3.html",
+  "sha256": "c4ffdd7eb64f271476a9be3c614a8148a1de7fc79c7ad7c8ccbf4ca7d15b9b86",
   "notes": [
-    "A QR code that only goes to a brand's website now keeps you on the scanner and asks for the barcode instead"
+    "If Google asks for a robot check, searching by photo switches to Bing",
+    "The Choose this product box now matches dark backgrounds"
   ],
-  "sig": "n/pKaUT5Oyz9opT0tbowgv2C6aQyZps3fKDDQAbvBLdMrudH5dapM8uT9NJ43xeH1DsDzXb+XqzfefyXkpfCDA==",
+  "sig": "wgFWQUkUnkZLU9oqK69EI99EG4n0mUR+7zL8FoLRhXxWgzFdjzjjRWXYgZELESeVgXuF022nE/ngwrVu3z96AA==",
   "channel": "test",
-  "published": "2026-11-19T11:02:56.041Z"
+  "published": "2026-11-20T03:56:10.117Z"
 }

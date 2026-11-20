@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.21.14",
-  "page": "pages/2026.11.21.14.html",
-  "sha256": "0d107da6e77b8185ff5991133397a637eec26d446056eaeea07647b4372113e5",
+  "version": "2026.11.21.15",
+  "page": "pages/2026.11.21.15.html",
+  "sha256": "c1d3589d9b225f876b5aab0ab8c8d392c571dc6a1159291e302b098bf89ac913",
   "notes": [
-    "Dates are picked with AnyItem's own calendar",
-    "When picking a picture online, a clear bar shows how to choose one"
+    "Expense categories and tags are picked from AnyItem's own list",
+    "The sheets page now keeps its own zoom"
   ],
-  "sig": "UIVTFZE4zLF/mZ+o2dUkYbLDM1+5ktOTmmskZWdP9bWP6l0oAXX3jer+Gh4GjKj1k5Z+EBUaVpn6lxRZoRXQDg==",
+  "sig": "L5EAV4Zf7y/iBgnN+NeRLf5Q7E+cHOLP4guBANUrqAQ96AzOB9FXd/fevWQCoOfkPKBjcovYLhYWvFogAnf6Cw==",
   "channel": "test",
-  "published": "2026-11-20T11:59:28.170Z"
+  "published": "2026-11-20T12:21:02.741Z"
 }

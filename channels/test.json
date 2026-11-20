@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.21.3",
-  "page": "pages/2026.11.21.3.html",
-  "sha256": "c4ffdd7eb64f271476a9be3c614a8148a1de7fc79c7ad7c8ccbf4ca7d15b9b86",
+  "version": "2026.11.21.8",
+  "page": "pages/2026.11.21.8.html",
+  "sha256": "7b49d33a7917b292027b1d9a80b5fea3787a51f98caa008016da2395d0e13a95",
   "notes": [
-    "If Google asks for a robot check, searching by photo switches to Bing",
-    "The Choose this product box now matches dark backgrounds"
+    "If Google asks you to sign in or prove you're not a robot while finding a picture or product, the search switches to Bing",
+    "Searching by photo switches to Bing the same way"
   ],
-  "sig": "wgFWQUkUnkZLU9oqK69EI99EG4n0mUR+7zL8FoLRhXxWgzFdjzjjRWXYgZELESeVgXuF022nE/ngwrVu3z96AA==",
+  "sig": "z8YO9UKVTp2skRIqRRyqZIGbU9VIO4R76Sz9MfdARY2VHL3vibYapkCNZKxawLKszh1BI5JBrGCEuSVqrdHUDA==",
   "channel": "test",
-  "published": "2026-11-20T03:56:10.117Z"
+  "published": "2026-11-20T07:14:33.551Z"
 }

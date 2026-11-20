@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.21.10",
-  "page": "pages/2026.11.21.10.html",
-  "sha256": "072d7b723eee81761c1c895f28857c230165f7c36435078fb61b74c506c7e85b",
+  "version": "2026.11.21.11",
+  "page": "pages/2026.11.21.11.html",
+  "sha256": "d4550d402b18b05d5fcd8326097bcbaa56b30235abfb2ebac401c0efd4da4828",
   "notes": [
-    "Fixed a problem message that could appear when picking a suggestion while typing",
-    "If Google asks you to sign in or prove you're not a robot, the search switches to Bing"
+    "Picture searches for names like \"my closet\" find the right pictures",
+    "Renaming: dragging along the name no longer stops the rename"
   ],
-  "sig": "9Kp9kXY0begQrtrO31Z5QyKqMhQXcRkmZ2qH6ouwX4FBcG2Mh2CqRGaGj1h6T7wkohP/0N/c2dtnk+NMhINrAA==",
+  "sig": "ARwtnypSN11myqP6OgpUp7rLpaLMnJOV9gWHcPVNs2bqlKlqdgGNR4YKjIAPocvYoIy9fiVOKIO2zQwvKN0HBw==",
   "channel": "test",
-  "published": "2026-11-20T07:54:51.790Z"
+  "published": "2026-11-20T08:30:56.661Z"
 }

@@ -1,12 +1,13 @@
 {
-  "version": "2026.11.21.11",
-  "page": "pages/2026.11.21.11.html",
-  "sha256": "d4550d402b18b05d5fcd8326097bcbaa56b30235abfb2ebac401c0efd4da4828",
+  "version": "2026.11.21.12",
+  "page": "pages/2026.11.21.12.html",
+  "sha256": "b2d0460e4fe8bf2ff5a1a487fef4992e1923d166c94537915adadbf0c0a32300",
   "notes": [
-    "Picture searches for names like \"my closet\" find the right pictures",
-    "Renaming: dragging along the name no longer stops the rename"
+    "Need a photo? in Buy from now searches pictures right in the app",
+    "What's new on the update message now opens the update notes",
+    "Choosing the kind of store uses AnyItem's own menu"
   ],
-  "sig": "ARwtnypSN11myqP6OgpUp7rLpaLMnJOV9gWHcPVNs2bqlKlqdgGNR4YKjIAPocvYoIy9fiVOKIO2zQwvKN0HBw==",
+  "sig": "oGzAO85b4/Y0jAAgP1l9vKCMzHqLebfUlfcNUWkr2xmIUi6IElV4ljpUFH4TW8SO4lhJabzM9gqtqzY5SeBjAA==",
   "channel": "test",
-  "published": "2026-11-20T08:30:56.661Z"
+  "published": "2026-11-20T11:11:56.360Z"
 }

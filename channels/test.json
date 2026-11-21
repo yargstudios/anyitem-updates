@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.4",
-  "page": "pages/2026.11.22.4.html",
-  "sha256": "b2404863219f937f566161c0a18d176bb2127d834404225406d4d3081614f017",
+  "version": "2026.11.22.5",
+  "page": "pages/2026.11.22.5.html",
+  "sha256": "fab2709c7dadf31760feaf2aaece4dcff97837a1a00475246b2bbc1c9fd207a5",
   "notes": [
-    "Modules are easier to see in every look, and categories stand out more in Evening."
+    "Notes open big only when you press the expand button."
   ],
-  "sig": "fNpCctBIu9fN6pQIeh+uvi/KHhxOsqCK26OXokmp/A8OmiLPp/sUsg0n7xWkWcq8uGt0noLR0PLNxkCGu812AQ==",
+  "sig": "vneBfVq6bdfVi/0lljT0tXznEqUCVDtu802JTyjPMf32B/LC+hL7NaecP4e3ZDJDLIDccNt+JRvZxVOUlPp/Bw==",
   "channel": "test",
-  "published": "2026-11-21T06:36:26.666Z"
+  "published": "2026-11-21T06:50:55.715Z"
 }

@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.21.16",
-  "page": "pages/2026.11.21.16.html",
-  "sha256": "fd4e7d10604129cbe4b80cc2b06409d0b950ab9bba6f0a686e615d9fd010b244",
+  "version": "2026.11.21.21",
+  "page": "pages/2026.11.21.21.html",
+  "sha256": "8ce24e7208c1d629606b5da480f4d108542ff7c0d3cde25713de7113e92b192c",
   "notes": [
-    "Opening or closing the sidebar no longer squeezes a module's toolbar or stops its zoom"
+    "Every dropdown, including a module's In group, now uses AnyItem's own menu"
   ],
-  "sig": "kRTxHVCNDvg2yAqHLS9PA9poL+P+LJLSBk5SlqZw0aiUAbGggFD8sRPWzW5MiVCIlOmajdI9eQad/5rR+R+sCg==",
+  "sig": "SsZy2YAMJiEyWRKyCiLJQEu67hAzBqM+53VG6zJIcve3lCuKkMEiNaWY3SjGFAPlDQyG9b7FMehy2AlyH3uKAA==",
   "channel": "test",
-  "published": "2026-11-20T12:59:16.644Z"
+  "published": "2026-11-21T01:21:10.038Z"
 }

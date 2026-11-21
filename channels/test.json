@@ -1,11 +1,13 @@
 {
-  "version": "2026.11.22.6",
-  "page": "pages/2026.11.22.6.html",
-  "sha256": "12ecef672930680c613b1ac459fa23a1bf8303fb2e169731aef35015168e2798",
+  "version": "2026.11.22.8",
+  "page": "pages/2026.11.22.8.html",
+  "sha256": "159b54b4ba32e467cf40d46895076ee2f326017f3aa1bccd13f319141e1bd5a3",
   "notes": [
-    "After scanning an item, closing Find where to buy it takes you back to your choices instead of out of the scan."
+    "Modules no longer have the In group menu at the bottom.",
+    "The Notes expand button only lights up when you point at it.",
+    "The restock list on a sheet now matches the modules' colour."
   ],
-  "sig": "PELEpEqjXJYYqZU0bah7/OHaaOKSLmFN+qHSN7ax9Qz5pqMQc+8ZfvyRlkkDNicK6s9yfY0Jt+Y4ZOywUAkHAQ==",
+  "sig": "mFmbHj6iOX4W85fXy2ujvOrVzVW1f23tNhzNHpYGNpMg5v7ndAhfwyLv7IQcb00wpMAaQ3/TrN37NqL4Pxy5CA==",
   "channel": "test",
-  "published": "2026-11-21T06:58:48.923Z"
+  "published": "2026-11-21T07:12:36.796Z"
 }

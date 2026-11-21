@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.1",
-  "page": "pages/2026.11.22.1.html",
-  "sha256": "56e9ba1fc9f4860756bd5d6a33b026c2ca79427a36d94833ab3445b06dd89211",
+  "version": "2026.11.22.3",
+  "page": "pages/2026.11.22.3.html",
+  "sha256": "9091a0c8e6e86bc2c6061ff9a75d35d94db136c51538700d7943b24c940d872b",
   "notes": [
-    "Add to AnyItem now has everything an item has: count, expiry, price, tags, links, notes, warranty and documents, with where it goes at the bottom."
+    "Easier to see: in the Gold, White, Black and Night looks, modules and categories now stand out from the background."
   ],
-  "sig": "P6v/G3BO8WcBMmGPXBm9cid5glxuCabO+MULt/swJPXWPumkxn+Lt3BGbFesIMWHwfUsaUfgnZMLZUilGAUGAg==",
+  "sig": "OZkbBuWqYPze0SnYRItpVa9VGHA9sQ3wW5o3f1B3yjMR2czyBKlqZ7s2b5laQ4IzHQtB5lY1JCN+15WxcY83CA==",
   "channel": "test",
-  "published": "2026-11-21T05:25:29.896Z"
+  "published": "2026-11-21T06:26:07.301Z"
 }

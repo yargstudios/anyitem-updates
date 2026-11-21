@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.12",
-  "page": "pages/2026.11.22.12.html",
-  "sha256": "c3a0904c21b4671f2f32030a5b5d68c1a210b1270bd03cdf06487605c56568b1",
+  "version": "2026.11.22.13",
+  "page": "pages/2026.11.22.13.html",
+  "sha256": "1a1b1c264b326271e2ae21ca6ade85dd41ac8d056f70b3a9c39cd06ffc563e7b",
   "notes": [
-    "In Edit, tapping or dragging a module by its name picks or moves it instead of renaming it."
+    "Switching between Barcode and Photo in the scanner no longer turns the camera off and on."
   ],
-  "sig": "BeJhZG/n6jV4VbB7cvdMyXphIkmwJfjX9Gi6CRsgAgS+8bC7B9aStzC3qVZHMlZUPz58YeMSyehq3qCz32YrAg==",
+  "sig": "MokxMT686MwLQayMMZgALLvG+0j6P9GkupyXGF25vrxibKmjUF90HKOqsGTcnslUHVxy/rvu1VqZ9NfLIv88AA==",
   "channel": "test",
-  "published": "2026-11-21T09:01:50.443Z"
+  "published": "2026-11-21T09:23:58.884Z"
 }

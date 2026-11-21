@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.5",
-  "page": "pages/2026.11.22.5.html",
-  "sha256": "fab2709c7dadf31760feaf2aaece4dcff97837a1a00475246b2bbc1c9fd207a5",
+  "version": "2026.11.22.6",
+  "page": "pages/2026.11.22.6.html",
+  "sha256": "12ecef672930680c613b1ac459fa23a1bf8303fb2e169731aef35015168e2798",
   "notes": [
-    "Notes open big only when you press the expand button."
+    "After scanning an item, closing Find where to buy it takes you back to your choices instead of out of the scan."
   ],
-  "sig": "vneBfVq6bdfVi/0lljT0tXznEqUCVDtu802JTyjPMf32B/LC+hL7NaecP4e3ZDJDLIDccNt+JRvZxVOUlPp/Bw==",
+  "sig": "PELEpEqjXJYYqZU0bah7/OHaaOKSLmFN+qHSN7ax9Qz5pqMQc+8ZfvyRlkkDNicK6s9yfY0Jt+Y4ZOywUAkHAQ==",
   "channel": "test",
-  "published": "2026-11-21T06:50:55.715Z"
+  "published": "2026-11-21T06:58:48.923Z"
 }

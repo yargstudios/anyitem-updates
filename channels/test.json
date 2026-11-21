@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.20",
-  "page": "pages/2026.11.22.20.html",
-  "sha256": "a05669772f37f73815b15b5a21e0763843f1b31455e1a75671498b80d8eb097d",
+  "version": "2026.11.22.21",
+  "page": "pages/2026.11.22.21.html",
+  "sha256": "206aa39bb233ff4749740654f03ce883229520bca84cece030e5692a2af65918",
   "notes": [
-    "When you drag a module, the picture you move now matches the module, with its words inside."
+    "In Edit, the bar that explains what you can do now sits neatly at the bottom of the window instead of over the sheet's name."
   ],
-  "sig": "TRYIcCl/DOrPAaBtbQNdrWcAb3+zGJXJeGUEtdB9B3JDmhg5KPxd1d4tzeK/voo+J5SQ5latwYo+0TgRPyYaCA==",
+  "sig": "2gxEWpvVYJ5fDByjO44Or7GG5uKkqStqObwVnkRAjEQkUnG97n19XHxP1nnNy/gwlx3MwYlgCgN6VjfryUZRDA==",
   "channel": "test",
-  "published": "2026-11-21T11:40:02.403Z"
+  "published": "2026-11-21T12:13:34.756Z"
 }

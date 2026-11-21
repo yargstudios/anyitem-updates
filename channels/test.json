@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.21.22",
-  "page": "pages/2026.11.21.22.html",
-  "sha256": "93618091151d28d7b6fa77905bdf22ae42ad5db3aabfb5a74e45d05e92a2d0c1",
+  "version": "2026.11.22.1",
+  "page": "pages/2026.11.22.1.html",
+  "sha256": "56e9ba1fc9f4860756bd5d6a33b026c2ca79427a36d94833ab3445b06dd89211",
   "notes": [
-    "Deleting something asks in AnyItem's own window"
+    "Add to AnyItem now has everything an item has: count, expiry, price, tags, links, notes, warranty and documents, with where it goes at the bottom."
   ],
-  "sig": "sANZ5ocYU31rl0Al3tEDasS1laekfFUgyt8XjhydoPFzUpT2ksGsRRcowbs9RfxxM130o+x+5WMGrzZG6u4bAQ==",
+  "sig": "P6v/G3BO8WcBMmGPXBm9cid5glxuCabO+MULt/swJPXWPumkxn+Lt3BGbFesIMWHwfUsaUfgnZMLZUilGAUGAg==",
   "channel": "test",
-  "published": "2026-11-21T02:02:48.419Z"
+  "published": "2026-11-21T05:25:29.896Z"
 }

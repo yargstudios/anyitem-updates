@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.14",
-  "page": "pages/2026.11.22.14.html",
-  "sha256": "c6cdd36e8a384c731b16cdf63ff4c3613216935a0d500c16347e71761e9548f4",
+  "version": "2026.11.22.16",
+  "page": "pages/2026.11.22.16.html",
+  "sha256": "0fa7982f2f0b40d062e36b705bc19c663a4f92bc7007a3ae3d91f0e679281ce4",
   "notes": [
-    "Money: pick the time frame from one menu, now with Last 7 days and Custom dates."
+    "Money: the spending chart now sits in the middle of the page, with its list underneath."
   ],
-  "sig": "RqGy7aKnLjodxhZD7/dFpPu5cdWD4x9mphKL949goL4loTRqPZJr1KBWMfzljOmIjd8YfSdpDdeyJ9j0+sXuBQ==",
+  "sig": "dCMugmI0iysKmesBWGM1c496Pc7kzzHi99xhg0mT5JSuX7bUZdYqwe46V/0PffNLLyIOcAJi8Cy66P7VEtnRBg==",
   "channel": "test",
-  "published": "2026-11-21T09:34:38.718Z"
+  "published": "2026-11-21T09:55:56.886Z"
 }

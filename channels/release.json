@@ -3,9 +3,22 @@
   "page": "pages/2026.11.22.16.html",
   "sha256": "0fa7982f2f0b40d062e36b705bc19c663a4f92bc7007a3ae3d91f0e679281ce4",
   "notes": [
-    "Money: the spending chart now sits in the middle of the page, with its list underneath."
+    "Add to AnyItem now has everything an item has (count, expiry, price, tags, notes, warranty, documents), with where it goes at the bottom.",
+    "Modules and categories stand out more from the background, in every look.",
+    "The restock list on a sheet matches the modules' colour.",
+    "Money: pick the time frame from one menu, now with Last 7 days and Custom dates. The chart sits in the middle of the page.",
+    "Dropdowns, dates, suggestions and \"are you sure\" questions all use AnyItem's own windows.",
+    "If Google asks you to sign in or prove you're not a robot, picture and product searches switch to Bing.",
+    "Need a photo? in Buy from searches pictures right in the app.",
+    "Manuals and documents takes one line until you press + Add manual/document.",
+    "In Edit, tapping or dragging a module's name picks or moves it instead of renaming it.",
+    "Modules no longer have the In group menu at the bottom.",
+    "Notes open big only from the expand button.",
+    "The barcode scanner shows the camera the right way round, and switching between Barcode and Photo keeps the camera on.",
+    "After scanning, closing Find where to buy it takes you back to your choices.",
+    "The sheets page keeps its own zoom, and opening the sidebar no longer squeezes a module's toolbar."
   ],
-  "sig": "dCMugmI0iysKmesBWGM1c496Pc7kzzHi99xhg0mT5JSuX7bUZdYqwe46V/0PffNLLyIOcAJi8Cy66P7VEtnRBg==",
+  "sig": "aCw5k9q00ydeWTn7AK92vfGUab+AyVfrfnuZbcwlH+6hK2NeKO1/DlhB7+RkGZEYEkfq7hKtF1K9tMl+CzTXBg==",
   "channel": "release",
-  "published": "2026-11-21T11:15:00.272Z"
+  "published": "2026-11-21T11:15:30.378Z"
 }

@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.10",
-  "page": "pages/2026.11.22.10.html",
-  "sha256": "aea6ad0d0ce43ee4b46407980a288cd029a310b77cccb30b3c2a49f191195328",
+  "version": "2026.11.22.11",
+  "page": "pages/2026.11.22.11.html",
+  "sha256": "17a78e18d57bb0f55889235eff9a9d9b556800c1c5b2c13110027bca20970b59",
   "notes": [
-    "The barcode scanner now shows the camera the right way round instead of mirrored."
+    "Manuals and documents now takes one line until you press + Add manual/document, like Warranty."
   ],
-  "sig": "y3g1RX2SWBXzVHnvO3ZBG88Y7xwbhVzZLU2RDxd+Wcu7UHhVZ6idyj11WO4OEgBUV+E9KFdpueCeR/rIjDz/Aw==",
+  "sig": "ekNIF+2j2PfhcMRpsWRC1ecNaAxPaOZqLlzIkV77YAQ5qw9rHhvfvvewI57+8s9DtUgVN7vFyMayFzrSCC1JAA==",
   "channel": "test",
-  "published": "2026-11-21T07:33:59.838Z"
+  "published": "2026-11-21T08:47:54.251Z"
 }

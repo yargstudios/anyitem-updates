@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.21.21",
-  "page": "pages/2026.11.21.21.html",
-  "sha256": "8ce24e7208c1d629606b5da480f4d108542ff7c0d3cde25713de7113e92b192c",
+  "version": "2026.11.21.22",
+  "page": "pages/2026.11.21.22.html",
+  "sha256": "93618091151d28d7b6fa77905bdf22ae42ad5db3aabfb5a74e45d05e92a2d0c1",
   "notes": [
-    "Every dropdown, including a module's In group, now uses AnyItem's own menu"
+    "Deleting something asks in AnyItem's own window"
   ],
-  "sig": "SsZy2YAMJiEyWRKyCiLJQEu67hAzBqM+53VG6zJIcve3lCuKkMEiNaWY3SjGFAPlDQyG9b7FMehy2AlyH3uKAA==",
+  "sig": "sANZ5ocYU31rl0Al3tEDasS1laekfFUgyt8XjhydoPFzUpT2ksGsRRcowbs9RfxxM130o+x+5WMGrzZG6u4bAQ==",
   "channel": "test",
-  "published": "2026-11-21T01:21:10.038Z"
+  "published": "2026-11-21T02:02:48.419Z"
 }

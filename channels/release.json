@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.19.8",
-  "page": "pages/2026.11.19.8.html",
-  "sha256": "3f37dd11ed5cb558d7dd486cec0f64c112b7409ae30687eeffd6994d636f277d",
+  "version": "2026.11.22.16",
+  "page": "pages/2026.11.22.16.html",
+  "sha256": "0fa7982f2f0b40d062e36b705bc19c663a4f92bc7007a3ae3d91f0e679281ce4",
   "notes": [
-    "A QR code that only goes to a brand's website now keeps you on the scanner and asks for the barcode instead"
+    "Money: the spending chart now sits in the middle of the page, with its list underneath."
   ],
-  "sig": "n/pKaUT5Oyz9opT0tbowgv2C6aQyZps3fKDDQAbvBLdMrudH5dapM8uT9NJ43xeH1DsDzXb+XqzfefyXkpfCDA==",
+  "sig": "dCMugmI0iysKmesBWGM1c496Pc7kzzHi99xhg0mT5JSuX7bUZdYqwe46V/0PffNLLyIOcAJi8Cy66P7VEtnRBg==",
   "channel": "release",
-  "published": "2026-11-19T11:06:52.863Z"
+  "published": "2026-11-21T11:15:00.272Z"
 }

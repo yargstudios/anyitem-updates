@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.13",
-  "page": "pages/2026.11.22.13.html",
-  "sha256": "1a1b1c264b326271e2ae21ca6ade85dd41ac8d056f70b3a9c39cd06ffc563e7b",
+  "version": "2026.11.22.14",
+  "page": "pages/2026.11.22.14.html",
+  "sha256": "c6cdd36e8a384c731b16cdf63ff4c3613216935a0d500c16347e71761e9548f4",
   "notes": [
-    "Switching between Barcode and Photo in the scanner no longer turns the camera off and on."
+    "Money: pick the time frame from one menu, now with Last 7 days and Custom dates."
   ],
-  "sig": "MokxMT686MwLQayMMZgALLvG+0j6P9GkupyXGF25vrxibKmjUF90HKOqsGTcnslUHVxy/rvu1VqZ9NfLIv88AA==",
+  "sig": "RqGy7aKnLjodxhZD7/dFpPu5cdWD4x9mphKL949goL4loTRqPZJr1KBWMfzljOmIjd8YfSdpDdeyJ9j0+sXuBQ==",
   "channel": "test",
-  "published": "2026-11-21T09:23:58.884Z"
+  "published": "2026-11-21T09:34:38.718Z"
 }

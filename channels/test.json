@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.3",
-  "page": "pages/2026.11.22.3.html",
-  "sha256": "9091a0c8e6e86bc2c6061ff9a75d35d94db136c51538700d7943b24c940d872b",
+  "version": "2026.11.22.4",
+  "page": "pages/2026.11.22.4.html",
+  "sha256": "b2404863219f937f566161c0a18d176bb2127d834404225406d4d3081614f017",
   "notes": [
-    "Easier to see: in the Gold, White, Black and Night looks, modules and categories now stand out from the background."
+    "Modules are easier to see in every look, and categories stand out more in Evening."
   ],
-  "sig": "OZkbBuWqYPze0SnYRItpVa9VGHA9sQ3wW5o3f1B3yjMR2czyBKlqZ7s2b5laQ4IzHQtB5lY1JCN+15WxcY83CA==",
+  "sig": "fNpCctBIu9fN6pQIeh+uvi/KHhxOsqCK26OXokmp/A8OmiLPp/sUsg0n7xWkWcq8uGt0noLR0PLNxkCGu812AQ==",
   "channel": "test",
-  "published": "2026-11-21T06:26:07.301Z"
+  "published": "2026-11-21T06:36:26.666Z"
 }

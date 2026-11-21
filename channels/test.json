@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.16",
-  "page": "pages/2026.11.22.16.html",
-  "sha256": "0fa7982f2f0b40d062e36b705bc19c663a4f92bc7007a3ae3d91f0e679281ce4",
+  "version": "2026.11.22.20",
+  "page": "pages/2026.11.22.20.html",
+  "sha256": "a05669772f37f73815b15b5a21e0763843f1b31455e1a75671498b80d8eb097d",
   "notes": [
-    "Money: the spending chart now sits in the middle of the page, with its list underneath."
+    "When you drag a module, the picture you move now matches the module, with its words inside."
   ],
-  "sig": "dCMugmI0iysKmesBWGM1c496Pc7kzzHi99xhg0mT5JSuX7bUZdYqwe46V/0PffNLLyIOcAJi8Cy66P7VEtnRBg==",
+  "sig": "TRYIcCl/DOrPAaBtbQNdrWcAb3+zGJXJeGUEtdB9B3JDmhg5KPxd1d4tzeK/voo+J5SQ5latwYo+0TgRPyYaCA==",
   "channel": "test",
-  "published": "2026-11-21T09:55:56.886Z"
+  "published": "2026-11-21T11:40:02.403Z"
 }

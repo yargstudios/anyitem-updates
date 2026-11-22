@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.22.22",
-  "page": "pages/2026.11.22.22.html",
-  "sha256": "5a3d2f4fb34f106bc6d6b8af0342d9f33ac2740b1425be7e70a60ba23a118770",
+  "version": "2026.11.22.23",
+  "page": "pages/2026.11.22.23.html",
+  "sha256": "e4a40a80411f700a9436961bf471eb3053059b98ecccacb6de00fc5aa3010651",
   "notes": [
-    "Buy from takes one line until you press Link to a store, and closes again with ×.",
-    "Manuals and documents can be closed again with × if you open it and change your mind."
+    "When an item is low or out, its window has one To buy button with the store, In my cart and Got it inside.",
+    "Notes is now the last thing in an item's window."
   ],
-  "sig": "gY6mQ69MhehnCkJw1TIoiNXDNV+Edvsldt3qokTX1L9EaIKNkjetT4nglDA8uHs9vXTFyCUzwB0sfVQ1XUEIAQ==",
+  "sig": "rrmkdWa6bhUKbzcjmyt9G/XQSfrR2oV9g/UANY662QAgjoV3QUgOlVr3jWaZvhd0nvXokQr+UkrTc/2zlHwbDQ==",
   "channel": "test",
-  "published": "2026-11-22T23:05:08.737Z"
+  "published": "2026-11-22T23:26:49.504Z"
 }

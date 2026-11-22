@@ -1,11 +1,12 @@
 {
-  "version": "2026.11.22.21",
-  "page": "pages/2026.11.22.21.html",
-  "sha256": "206aa39bb233ff4749740654f03ce883229520bca84cece030e5692a2af65918",
+  "version": "2026.11.22.22",
+  "page": "pages/2026.11.22.22.html",
+  "sha256": "5a3d2f4fb34f106bc6d6b8af0342d9f33ac2740b1425be7e70a60ba23a118770",
   "notes": [
-    "In Edit, the bar that explains what you can do now sits neatly at the bottom of the window instead of over the sheet's name."
+    "Buy from takes one line until you press Link to a store, and closes again with ×.",
+    "Manuals and documents can be closed again with × if you open it and change your mind."
   ],
-  "sig": "2gxEWpvVYJ5fDByjO44Or7GG5uKkqStqObwVnkRAjEQkUnG97n19XHxP1nnNy/gwlx3MwYlgCgN6VjfryUZRDA==",
+  "sig": "gY6mQ69MhehnCkJw1TIoiNXDNV+Edvsldt3qokTX1L9EaIKNkjetT4nglDA8uHs9vXTFyCUzwB0sfVQ1XUEIAQ==",
   "channel": "test",
-  "published": "2026-11-21T12:13:34.756Z"
+  "published": "2026-11-22T23:05:08.737Z"
 }

@@ -1,12 +1,11 @@
 {
-  "version": "2026.11.22.23",
-  "page": "pages/2026.11.22.23.html",
-  "sha256": "e4a40a80411f700a9436961bf471eb3053059b98ecccacb6de00fc5aa3010651",
+  "version": "2026.11.22.24",
+  "page": "pages/2026.11.22.24.html",
+  "sha256": "124a5d747610f127e86ebd0bf88c757199d08bd68c4dd625e5516e25eb802520",
   "notes": [
-    "When an item is low or out, its window has one To buy button with the store, In my cart and Got it inside.",
-    "Notes is now the last thing in an item's window."
+    "New sheets, groups, modules and categories get their own name: New module, New module 2, New module 3."
   ],
-  "sig": "rrmkdWa6bhUKbzcjmyt9G/XQSfrR2oV9g/UANY662QAgjoV3QUgOlVr3jWaZvhd0nvXokQr+UkrTc/2zlHwbDQ==",
+  "sig": "h/jm4Umv+PUxw8edhkVOWstQeEcnUGehsNEp6kInHCQgxqK7pj7QNtQg8RW5xKam3EHrrau0sW5gJvgkHPl3CQ==",
   "channel": "test",
-  "published": "2026-11-22T23:26:49.504Z"
+  "published": "2026-11-22T23:58:57.423Z"
 }

@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.27",
-  "page": "pages/2026.11.22.27.html",
-  "sha256": "2e7c35740fb8fce194e6fb5272e3d4cb0ce39b25636919fdbe2de27b99527b52",
+  "version": "2026.11.22.28",
+  "page": "pages/2026.11.22.28.html",
+  "sha256": "be91aeedfaae05a3e5a6e2fef9e41bf0fb0f907ac82069810dbcf216678a91de",
   "notes": [
-    "The welcome now says clearly that AnyItem starts with a 30-day free trial, and what it costs after."
+    "The welcome now says clearly that AnyItem starts with a 30-day free trial, and that after it you can rent or buy."
   ],
-  "sig": "f2sn2mTHlnzkDfIikFkmTe6szAEGt16REa1h2VXdL+bLVSVdw4DS58IeiKCyF3hvnKjujRvDo19g3Mo57KhBAw==",
+  "sig": "w25YL9YjqkdXqmvVAqDqP+oj1kNbgsnvNhCFeQWYM99nWfzoOIONwWN2Iz4+QRho8dfYRsPb/bYv216G80zTCA==",
   "channel": "test",
-  "published": "2026-11-23T02:17:27.163Z"
+  "published": "2026-11-23T02:25:07.843Z"
 }

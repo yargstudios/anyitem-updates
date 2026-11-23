@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.23.1",
-  "page": "pages/2026.11.23.1.html",
-  "sha256": "f1fca5bf432f9b451708e82af4d3631ba3e868b8a7ccdf715ea84063bb1d08cc",
+  "version": "2026.11.23.2",
+  "page": "pages/2026.11.23.2.html",
+  "sha256": "a02bc116e9d6696a123072f471dcd5c73a58058f93c9f98fb5a9d41fdffb05d0",
   "notes": [
-    "Add to AnyItem: Buy from takes one line until you press Link to a store."
+    "Closing the camera from Add an item takes you back to the menu, so you can pick another way."
   ],
-  "sig": "FP/5kHv5cra0ghgCueF/9tBxjk4KX5RWzY9RgBLCBF5TEYIA4g6U3p4O8VZmCXBy866A4mN4v1QV94eGmr5yAQ==",
+  "sig": "W1noAE+TJlR4Om1KGJh189vi62YHXPTsTDhjemZdQKUwSkPtDMQHQbFTVwxTBbOPFXbwvgnqQhTth6R5AVadDA==",
   "channel": "test",
-  "published": "2026-11-23T05:18:00.509Z"
+  "published": "2026-11-23T05:39:52.905Z"
 }

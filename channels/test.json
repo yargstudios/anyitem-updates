@@ -1,11 +1,12 @@
 {
-  "version": "2026.11.23.3",
-  "page": "pages/2026.11.23.3.html",
-  "sha256": "f3f8c908bc04cae6f5e7202f809503f7feaa41d5c2055bc7f21d6c0c1a881090",
+  "version": "2026.11.23.4",
+  "page": "pages/2026.11.23.4.html",
+  "sha256": "b5a5d4dcec8836e7cd5d0a2e1f9a5a652deda0ce00fad1f054a1270a72c83aed",
   "notes": [
-    "New: alerts on any item. Open an item, press + Add alert, write a note and pick the day and time."
+    "New: alerts on any item. Open an item, press + Add alert, write a note and pick the day and time.",
+    "Alerts can repeat every day, week, month or year."
   ],
-  "sig": "X1pcJxeexiO+Ot2KrQGsFdWGmZDJ9VapuF353nKGf32kM0z6zswHmN97AY71NYQFSmWiA/3tuqRl/lOmgzdiBg==",
+  "sig": "3MJ3RmTM3ui/WNuOgkLBox4IimJNvQUim2tod4kwHwWL0dcu89EizpHK61dnOCGOkVkI9HPsuDBryEBodUvDCA==",
   "channel": "test",
-  "published": "2026-11-23T07:36:46.068Z"
+  "published": "2026-11-23T07:53:31.636Z"
 }

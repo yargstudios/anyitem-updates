@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.23.13",
-  "page": "pages/2026.11.23.13.html",
-  "sha256": "88cf99db4fd60aeba86d02e94d8139a5673fee3b46b3f39259fc8a6eabfd9302",
+  "version": "2026.11.23.14",
+  "page": "pages/2026.11.23.14.html",
+  "sha256": "8f3bbd2ccc982e4fa212600fcb17386cbad599cf34b0283de45581c8e642075f",
   "notes": [
-    "Choosing where a new item goes is no longer interrupted when its name fills in.",
-    "After adding an item from the camera, click the Added message to open that item."
+    "After adding several items from one photo, click the Added message to go to their category.",
+    "Choose this product now shows up on stores you've added yourself."
   ],
-  "sig": "Hk5vT1LFeoceO58vqq40n5L8R/JrwyLLXnS8ln3O8g3z5Xr23izu+oCbPD4iADA5BTyZtXkqmcJ0q/mTP7ZkCw==",
+  "sig": "xHF1bo0uqo6hghmFUSjiUrQSXAS2L1nlnENltPoOLHgG4hy2dphpCvhMkHm09cehNCEuXcRffemELjlLWfEADQ==",
   "channel": "test",
-  "published": "2026-11-23T23:02:24.977Z"
+  "published": "2026-11-23T23:19:08.951Z"
 }

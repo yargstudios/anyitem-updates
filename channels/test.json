@@ -1,12 +1,14 @@
 {
-  "version": "2026.11.23.4",
-  "page": "pages/2026.11.23.4.html",
-  "sha256": "b5a5d4dcec8836e7cd5d0a2e1f9a5a652deda0ce00fad1f054a1270a72c83aed",
+  "version": "2026.11.23.5",
+  "page": "pages/2026.11.23.5.html",
+  "sha256": "0d12a572664e5288dfa2f421908c0062892ff03460e00d2c3e8b61d80ac53b6a",
   "notes": [
-    "New: alerts on any item. Open an item, press + Add alert, write a note and pick the day and time.",
-    "Alerts can repeat every day, week, month or year."
+    "The zoom in the toolbar is now one magnifier. Click it to zoom in and out.",
+    "Right-click anywhere and choose Search to search right where you are.",
+    "Move to and Copy to are no longer in the item window.",
+    "The restock list no longer slides under the top bar when you scroll."
   ],
-  "sig": "3MJ3RmTM3ui/WNuOgkLBox4IimJNvQUim2tod4kwHwWL0dcu89EizpHK61dnOCGOkVkI9HPsuDBryEBodUvDCA==",
+  "sig": "Qcc9yzUR6joJjOWwiRBA5U1VR94PfaOsiiE9KX/khjDYZo9z+RpQStYHGyNll5+lvOx/skrXOSSJOG7w/Jc1AA==",
   "channel": "test",
-  "published": "2026-11-23T07:53:31.636Z"
+  "published": "2026-11-23T08:17:26.251Z"
 }

@@ -1,11 +1,12 @@
 {
-  "version": "2026.11.23.12",
-  "page": "pages/2026.11.23.12.html",
-  "sha256": "714a9d3a1de6833a45faa1b592c3f4f20c4b587e598bbb34d6a6fd7c4c34219f",
+  "version": "2026.11.23.13",
+  "page": "pages/2026.11.23.13.html",
+  "sha256": "88cf99db4fd60aeba86d02e94d8139a5673fee3b46b3f39259fc8a6eabfd9302",
   "notes": [
-    "Choosing somewhere new for an item is simpler: one line each for the sheet, module and category, and a box to name anything new."
+    "Choosing where a new item goes is no longer interrupted when its name fills in.",
+    "After adding an item from the camera, click the Added message to open that item."
   ],
-  "sig": "F4Sad3A3xN3O9OSGaJTALt9hhrn+VDPHvrlexyxqa7o797IjZNA9Ah6SMcskCFfSqkQ/urmSmVbqiRBSXniCBA==",
+  "sig": "Hk5vT1LFeoceO58vqq40n5L8R/JrwyLLXnS8ln3O8g3z5Xr23izu+oCbPD4iADA5BTyZtXkqmcJ0q/mTP7ZkCw==",
   "channel": "test",
-  "published": "2026-11-23T11:38:33.575Z"
+  "published": "2026-11-23T23:02:24.977Z"
 }

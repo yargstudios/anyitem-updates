@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.30",
-  "page": "pages/2026.11.22.30.html",
-  "sha256": "9188493142d91eb25e16c32bdbde51d5827185548f1c8daba96afa845735ab9c",
+  "version": "2026.11.22.31",
+  "page": "pages/2026.11.22.31.html",
+  "sha256": "a1cec3c2e2490f9734051219f349d5c832436f3fee735311d3d0a9125752dfa1",
   "notes": [
-    "Cleaner wording: the little dots between words are now commas or periods."
+    "Manuals and documents no longer shows the note about setting up AI."
   ],
-  "sig": "/UJvvytQR5rz7r61BpGCPkOvHeCY1S3bBfL9cREVPU1P1Ct9jn86yLtrQ7ddFYN6VvyouDb1nsfr5L7bFtRLAg==",
+  "sig": "vS16efzXacuSuFhXGYbbiLRUEy63cYFz36JRXQB0s33FTLhQcyCgM3azPPBlz5euyvvSrWNSRA5MsTaRVcf2DA==",
   "channel": "test",
-  "published": "2026-11-23T03:09:04.248Z"
+  "published": "2026-11-23T03:45:00.970Z"
 }

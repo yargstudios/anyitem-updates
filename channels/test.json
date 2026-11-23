@@ -1,12 +1,11 @@
 {
-  "version": "2026.11.23.10",
-  "page": "pages/2026.11.23.10.html",
-  "sha256": "0700abe73246e6953b19e1b1b29954d4f9246c21377b00a97814a0449b8def57",
+  "version": "2026.11.23.12",
+  "page": "pages/2026.11.23.12.html",
+  "sha256": "714a9d3a1de6833a45faa1b592c3f4f20c4b587e598bbb34d6a6fd7c4c34219f",
   "notes": [
-    "Edit and Select no longer show instruction bars.",
-    "Right-click Search works while you're selecting, and opens at the top of the window."
+    "Choosing somewhere new for an item is simpler: one line each for the sheet, module and category, and a box to name anything new."
   ],
-  "sig": "2toT8+U0c/6YLz73xmEpQM6p8uhQ9iBveTvlP/VEaCEmGYN4Ljq846yZiQBD50gJj0qz3JLHZZoifNvT2UTkCQ==",
+  "sig": "F4Sad3A3xN3O9OSGaJTALt9hhrn+VDPHvrlexyxqa7o797IjZNA9Ah6SMcskCFfSqkQ/urmSmVbqiRBSXniCBA==",
   "channel": "test",
-  "published": "2026-11-23T10:52:31.089Z"
+  "published": "2026-11-23T11:38:33.575Z"
 }

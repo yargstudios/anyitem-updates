@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.28",
-  "page": "pages/2026.11.22.28.html",
-  "sha256": "be91aeedfaae05a3e5a6e2fef9e41bf0fb0f907ac82069810dbcf216678a91de",
+  "version": "2026.11.22.30",
+  "page": "pages/2026.11.22.30.html",
+  "sha256": "9188493142d91eb25e16c32bdbde51d5827185548f1c8daba96afa845735ab9c",
   "notes": [
-    "The welcome now says clearly that AnyItem starts with a 30-day free trial, and that after it you can rent or buy."
+    "Cleaner wording: the little dots between words are now commas or periods."
   ],
-  "sig": "w25YL9YjqkdXqmvVAqDqP+oj1kNbgsnvNhCFeQWYM99nWfzoOIONwWN2Iz4+QRho8dfYRsPb/bYv216G80zTCA==",
+  "sig": "/UJvvytQR5rz7r61BpGCPkOvHeCY1S3bBfL9cREVPU1P1Ct9jn86yLtrQ7ddFYN6VvyouDb1nsfr5L7bFtRLAg==",
   "channel": "test",
-  "published": "2026-11-23T02:25:07.843Z"
+  "published": "2026-11-23T03:09:04.248Z"
 }

@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.23.6",
-  "page": "pages/2026.11.23.6.html",
-  "sha256": "f941871a732b58064316a144cbc86468a58a82e987fb8d7c39ad2da1b7e4d609",
+  "version": "2026.11.23.7",
+  "page": "pages/2026.11.23.7.html",
+  "sha256": "df9c8e42b6821987b6264833d62a445e4c6d5e0525051a3dcf39c5bba8ebd428",
   "notes": [
-    "Alerts: type any time you like, such as 3:27.",
-    "The search you open by right-clicking is easy to read in every color theme."
+    "Long descriptions with no spaces now wrap inside their module instead of running off it.",
+    "Tapping the name of a new module or category picks the whole name, so you can just type."
   ],
-  "sig": "miXBLalpIsyPplgso55JV4fdw77Jf9MyyJjMZq2knKatuQDUOzYOcVV/OdcGjsASSwjwmsysspFz4kqcdnCuAg==",
+  "sig": "hGBE1bv9Eg+mxaKirRj4pm/1HxXMUnveVMGNO6HAd2p5h3ytn+V1gEeCAz0t4YgaFm5fbut3b3q3ZPFAVUWoCw==",
   "channel": "test",
-  "published": "2026-11-23T08:35:10.015Z"
+  "published": "2026-11-23T09:23:44.306Z"
 }

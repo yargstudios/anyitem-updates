@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.23.8",
-  "page": "pages/2026.11.23.8.html",
-  "sha256": "294d6128ca7fc0103a6e7ea50742dd49116a1061093aa12cf422750ab949731d",
+  "version": "2026.11.23.10",
+  "page": "pages/2026.11.23.10.html",
+  "sha256": "0700abe73246e6953b19e1b1b29954d4f9246c21377b00a97814a0449b8def57",
   "notes": [
-    "You can now edit an item's description: click it under the item's name, or click Add a description.",
-    "Cropping: the corners and edges are much easier to grab."
+    "Edit and Select no longer show instruction bars.",
+    "Right-click Search works while you're selecting, and opens at the top of the window."
   ],
-  "sig": "TsIRdVpZu1wxeZt4yr9on/d9A9x0P3HQv74RQzPbux2FaPdCqIB3ROdtVSgNAnqv0y5KUxCy7TZn4pMBqSQLBQ==",
+  "sig": "2toT8+U0c/6YLz73xmEpQM6p8uhQ9iBveTvlP/VEaCEmGYN4Ljq846yZiQBD50gJj0qz3JLHZZoifNvT2UTkCQ==",
   "channel": "test",
-  "published": "2026-11-23T09:37:47.642Z"
+  "published": "2026-11-23T10:52:31.089Z"
 }

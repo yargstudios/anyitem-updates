@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.22.24",
-  "page": "pages/2026.11.22.24.html",
-  "sha256": "124a5d747610f127e86ebd0bf88c757199d08bd68c4dd625e5516e25eb802520",
+  "version": "2026.11.22.27",
+  "page": "pages/2026.11.22.27.html",
+  "sha256": "2e7c35740fb8fce194e6fb5272e3d4cb0ce39b25636919fdbe2de27b99527b52",
   "notes": [
-    "New sheets, groups, modules and categories get their own name: New module, New module 2, New module 3."
+    "The welcome now says clearly that AnyItem starts with a 30-day free trial, and what it costs after."
   ],
-  "sig": "h/jm4Umv+PUxw8edhkVOWstQeEcnUGehsNEp6kInHCQgxqK7pj7QNtQg8RW5xKam3EHrrau0sW5gJvgkHPl3CQ==",
+  "sig": "f2sn2mTHlnzkDfIikFkmTe6szAEGt16REa1h2VXdL+bLVSVdw4DS58IeiKCyF3hvnKjujRvDo19g3Mo57KhBAw==",
   "channel": "test",
-  "published": "2026-11-22T23:58:57.423Z"
+  "published": "2026-11-23T02:17:27.163Z"
 }

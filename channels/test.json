@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.23.2",
-  "page": "pages/2026.11.23.2.html",
-  "sha256": "a02bc116e9d6696a123072f471dcd5c73a58058f93c9f98fb5a9d41fdffb05d0",
+  "version": "2026.11.23.3",
+  "page": "pages/2026.11.23.3.html",
+  "sha256": "f3f8c908bc04cae6f5e7202f809503f7feaa41d5c2055bc7f21d6c0c1a881090",
   "notes": [
-    "Closing the camera from Add an item takes you back to the menu, so you can pick another way."
+    "New: alerts on any item. Open an item, press + Add alert, write a note and pick the day and time."
   ],
-  "sig": "W1noAE+TJlR4Om1KGJh189vi62YHXPTsTDhjemZdQKUwSkPtDMQHQbFTVwxTBbOPFXbwvgnqQhTth6R5AVadDA==",
+  "sig": "X1pcJxeexiO+Ot2KrQGsFdWGmZDJ9VapuF353nKGf32kM0z6zswHmN97AY71NYQFSmWiA/3tuqRl/lOmgzdiBg==",
   "channel": "test",
-  "published": "2026-11-23T05:39:52.905Z"
+  "published": "2026-11-23T07:36:46.068Z"
 }

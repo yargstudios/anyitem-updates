@@ -1,12 +1,13 @@
 {
-  "version": "2026.11.23.14",
-  "page": "pages/2026.11.23.14.html",
-  "sha256": "8f3bbd2ccc982e4fa212600fcb17386cbad599cf34b0283de45581c8e642075f",
+  "version": "2026.11.23.16",
+  "page": "pages/2026.11.23.16.html",
+  "sha256": "f4e47473eacc778262c5e0fa0ea6136de347afd80992603c9068cb431f75a98e",
   "notes": [
-    "After adding several items from one photo, click the Added message to go to their category.",
-    "Choose this product now shows up on stores you've added yourself."
+    "Alerts for sheets, groups, modules and categories: open the ⋯ menu and choose Add an alert, or tap the bell on a category.",
+    "Items you haven't linked to a store no longer show a store name.",
+    "The Added message is centered."
   ],
-  "sig": "xHF1bo0uqo6hghmFUSjiUrQSXAS2L1nlnENltPoOLHgG4hy2dphpCvhMkHm09cehNCEuXcRffemELjlLWfEADQ==",
+  "sig": "b6d6PigWMr3ZcGfc96xZtFCKSkM4GF2FtsHTRq12AJIIwE++GYBP0I7UvMWy3v071P8cXpCzrmbzMIB+UJAeBQ==",
   "channel": "test",
-  "published": "2026-11-23T23:19:08.951Z"
+  "published": "2026-11-23T23:55:03.571Z"
 }

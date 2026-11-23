@@ -1,14 +1,12 @@
 {
-  "version": "2026.11.23.5",
-  "page": "pages/2026.11.23.5.html",
-  "sha256": "0d12a572664e5288dfa2f421908c0062892ff03460e00d2c3e8b61d80ac53b6a",
+  "version": "2026.11.23.6",
+  "page": "pages/2026.11.23.6.html",
+  "sha256": "f941871a732b58064316a144cbc86468a58a82e987fb8d7c39ad2da1b7e4d609",
   "notes": [
-    "The zoom in the toolbar is now one magnifier. Click it to zoom in and out.",
-    "Right-click anywhere and choose Search to search right where you are.",
-    "Move to and Copy to are no longer in the item window.",
-    "The restock list no longer slides under the top bar when you scroll."
+    "Alerts: type any time you like, such as 3:27.",
+    "The search you open by right-clicking is easy to read in every color theme."
   ],
-  "sig": "Qcc9yzUR6joJjOWwiRBA5U1VR94PfaOsiiE9KX/khjDYZo9z+RpQStYHGyNll5+lvOx/skrXOSSJOG7w/Jc1AA==",
+  "sig": "miXBLalpIsyPplgso55JV4fdw77Jf9MyyJjMZq2knKatuQDUOzYOcVV/OdcGjsASSwjwmsysspFz4kqcdnCuAg==",
   "channel": "test",
-  "published": "2026-11-23T08:17:26.251Z"
+  "published": "2026-11-23T08:35:10.015Z"
 }

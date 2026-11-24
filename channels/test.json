@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.23.17",
-  "page": "pages/2026.11.23.17.html",
-  "sha256": "109b99561cb52c4d2fae2026a03a5b3c4eeee29ea98ce56bd54a2385cfc56267",
+  "version": "2026.11.23.18",
+  "page": "pages/2026.11.23.18.html",
+  "sha256": "f9d6b09ee9b8cda30181fd9a24a882210fb51e73bcaa63e4ff723d740f190bf2",
   "notes": [
-    "With a module open, scrolling no longer moves the page behind it."
+    "When you open an item's photo full size, swipe or use the arrows to see its other photos."
   ],
-  "sig": "CMh4WG+5ttEClN0RlVJJFVzBZisvGGKNZ3rOowTx6dKsFym9Pbq5sVB4yVcu7uAOryKB/fKFLMOCJfR8vdFfDQ==",
+  "sig": "VVoViMJ2JBbX+acJuiiq9KnOdTCNGot7JtqNrAhrIqcOG8QN/I3Ly0PZFybutT1uxIHG/zxh9GttydKACcqkCg==",
   "channel": "test",
-  "published": "2026-11-24T00:06:01.107Z"
+  "published": "2026-11-24T02:52:34.631Z"
 }

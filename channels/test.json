@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.23.18",
-  "page": "pages/2026.11.23.18.html",
-  "sha256": "f9d6b09ee9b8cda30181fd9a24a882210fb51e73bcaa63e4ff723d740f190bf2",
+  "version": "2026.11.24.1",
+  "page": "pages/2026.11.24.1.html",
+  "sha256": "8f2667f992463172397d2c5f19bb3e22b20ce20579c5c94c6774d01725e6fce3",
   "notes": [
-    "When you open an item's photo full size, swipe or use the arrows to see its other photos."
+    "Modules are now called Boxes."
   ],
-  "sig": "VVoViMJ2JBbX+acJuiiq9KnOdTCNGot7JtqNrAhrIqcOG8QN/I3Ly0PZFybutT1uxIHG/zxh9GttydKACcqkCg==",
+  "sig": "QgzGeXUCmoqVPJ8se4HIZ5/uSfboTd6n9+PHlEOq6ijpy6cIjXVn87g+o/8G8v3ylxUXpPeHVn2v4sq6iyoZCA==",
   "channel": "test",
-  "published": "2026-11-24T02:52:34.631Z"
+  "published": "2026-11-24T07:02:39.220Z"
 }

@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.24.11",
-  "page": "pages/2026.11.24.11.html",
-  "sha256": "eec4184e019d36b02139fcd01762599230a73ea86512419c79b0217e9ed4be88",
+  "version": "2026.11.24.12",
+  "page": "pages/2026.11.24.12.html",
+  "sha256": "fedad5cf35682d5c5c4f82f71d2420862f9e2e322bb7a42a1f95e7f61abf370d",
   "notes": [
-    "When adding an item, where it goes stands out in its own box"
+    "Photo and barcode buttons fold up under one Photo & barcode heading"
   ],
-  "sig": "jiH57qLsf64O9xPYDiYSs1tROkzCqLwWrm5lcRImtt3y2C62eSY6XnrXDFk61qlrAF9Cy1mxzmkVgMHdvn9fAw==",
+  "sig": "3gEbhlw3X1A7hV+nitAow8ugv0mRkhU6/nXYOEheVJs3OttNMm0a9MuHU791lTuq8F4sHXhZ99xe7gmKuHFPCQ==",
   "channel": "test",
-  "published": "2026-11-24T10:20:56.546Z"
+  "published": "2026-11-24T11:02:28.116Z"
 }

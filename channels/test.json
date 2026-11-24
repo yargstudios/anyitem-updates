@@ -1,12 +1,11 @@
 {
-  "version": "2026.11.24.14",
-  "page": "pages/2026.11.24.14.html",
-  "sha256": "e3cfcd31aa1fa7fd160f9437d26f8f4cbb521dd69957068da41b0cbb58d0ef1d",
+  "version": "2026.11.24.15",
+  "page": "pages/2026.11.24.15.html",
+  "sha256": "63a904dadfeb080da945a62a16b54af68d8359e31f4708c9d1aa622e7f1692b7",
   "notes": [
-    "Items can go right in a box, no category needed",
-    "Pick several items and choose New category to group them"
+    "When adding an item, a category is optional: it can go right in a box"
   ],
-  "sig": "Ap0VL37kcHU6P1uftui9rmPobZ2LoqrWvwup4lBwe6xyi+3ZLLjrF5al62w8ytE8r5T/rcB1yi4Tnyr0KgflDA==",
+  "sig": "24DS89voRtW44Qz3LdLW9Fdlo6hKPlCGABtb9liueaIrIFIywT3f9Wqd5m2DPe8gSkAvCWM2NW9A7/WQUkYFCg==",
   "channel": "test",
-  "published": "2026-11-24T11:38:02.372Z"
+  "published": "2026-11-24T12:01:17.917Z"
 }

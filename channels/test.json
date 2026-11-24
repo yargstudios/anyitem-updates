@@ -1,11 +1,12 @@
 {
-  "version": "2026.11.24.12",
-  "page": "pages/2026.11.24.12.html",
-  "sha256": "fedad5cf35682d5c5c4f82f71d2420862f9e2e322bb7a42a1f95e7f61abf370d",
+  "version": "2026.11.24.14",
+  "page": "pages/2026.11.24.14.html",
+  "sha256": "e3cfcd31aa1fa7fd160f9437d26f8f4cbb521dd69957068da41b0cbb58d0ef1d",
   "notes": [
-    "Photo and barcode buttons fold up under one Photo & barcode heading"
+    "Items can go right in a box, no category needed",
+    "Pick several items and choose New category to group them"
   ],
-  "sig": "3gEbhlw3X1A7hV+nitAow8ugv0mRkhU6/nXYOEheVJs3OttNMm0a9MuHU791lTuq8F4sHXhZ99xe7gmKuHFPCQ==",
+  "sig": "Ap0VL37kcHU6P1uftui9rmPobZ2LoqrWvwup4lBwe6xyi+3ZLLjrF5al62w8ytE8r5T/rcB1yi4Tnyr0KgflDA==",
   "channel": "test",
-  "published": "2026-11-24T11:02:28.116Z"
+  "published": "2026-11-24T11:38:02.372Z"
 }

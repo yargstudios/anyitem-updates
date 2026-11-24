@@ -1,11 +1,12 @@
 {
-  "version": "2026.11.24.7",
-  "page": "pages/2026.11.24.7.html",
-  "sha256": "39737093571d4bd639303640ac6733adbbb37c2363e684f035a1e2ee42553f75",
+  "version": "2026.11.24.9",
+  "page": "pages/2026.11.24.9.html",
+  "sha256": "892d8fb87a7d8aaa98018eaffddca68566c448fcd149e265ba416421a9e7bf59",
   "notes": [
-    "Item details now fold up under one Item fields heading, neatly lined up"
+    "Buy from is now under Item fields",
+    "Make your own statuses, or rename Stocked, Low and Out, in Settings › Statuses"
   ],
-  "sig": "z0S63qQQK8ESUZl5ZUol30pgoji+zlDHNq2/rWwM4CZ8dxO45gPq7CbwSdBHAxgIBeRolIODnAJTfIeys9HSBA==",
+  "sig": "OJPRXGcJ6lJE2Hg4TOW0kTCC+nJ/p+bKhlV8EJyfLS0uyj6psvBvPu3FYSxHDyPBtTvEUzk765HyTBDSZlOeCQ==",
   "channel": "test",
-  "published": "2026-11-24T09:12:36.300Z"
+  "published": "2026-11-24T09:33:23.018Z"
 }

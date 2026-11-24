@@ -1,13 +1,11 @@
 {
-  "version": "2026.11.23.16",
-  "page": "pages/2026.11.23.16.html",
-  "sha256": "f4e47473eacc778262c5e0fa0ea6136de347afd80992603c9068cb431f75a98e",
+  "version": "2026.11.23.17",
+  "page": "pages/2026.11.23.17.html",
+  "sha256": "109b99561cb52c4d2fae2026a03a5b3c4eeee29ea98ce56bd54a2385cfc56267",
   "notes": [
-    "Alerts for sheets, groups, modules and categories: open the ⋯ menu and choose Add an alert, or tap the bell on a category.",
-    "Items you haven't linked to a store no longer show a store name.",
-    "The Added message is centered."
+    "With a module open, scrolling no longer moves the page behind it."
   ],
-  "sig": "b6d6PigWMr3ZcGfc96xZtFCKSkM4GF2FtsHTRq12AJIIwE++GYBP0I7UvMWy3v071P8cXpCzrmbzMIB+UJAeBQ==",
+  "sig": "CMh4WG+5ttEClN0RlVJJFVzBZisvGGKNZ3rOowTx6dKsFym9Pbq5sVB4yVcu7uAOryKB/fKFLMOCJfR8vdFfDQ==",
   "channel": "test",
-  "published": "2026-11-23T23:55:03.571Z"
+  "published": "2026-11-24T00:06:01.107Z"
 }

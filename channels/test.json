@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.24.10",
-  "page": "pages/2026.11.24.10.html",
-  "sha256": "ba17fda85f4a02f38302dd09e8c3e30b5f45ef51400c58d21978bdd4296a76f4",
+  "version": "2026.11.24.11",
+  "page": "pages/2026.11.24.11.html",
+  "sha256": "eec4184e019d36b02139fcd01762599230a73ea86512419c79b0217e9ed4be88",
   "notes": [
-    "Adding an item uses the same tidy Item fields section"
+    "When adding an item, where it goes stands out in its own box"
   ],
-  "sig": "W9R67WDVFhhD4n7AvT4IvjNmMIdsyt6Mp7dnmBHx/TGBNDH5FCn9/qJYyjqEC0ENOJ5KfNXzJEc5GHLxLOP3BA==",
+  "sig": "jiH57qLsf64O9xPYDiYSs1tROkzCqLwWrm5lcRImtt3y2C62eSY6XnrXDFk61qlrAF9Cy1mxzmkVgMHdvn9fAw==",
   "channel": "test",
-  "published": "2026-11-24T09:50:44.424Z"
+  "published": "2026-11-24T10:20:56.546Z"
 }

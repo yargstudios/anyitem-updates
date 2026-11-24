@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.24.1",
-  "page": "pages/2026.11.24.1.html",
-  "sha256": "8f2667f992463172397d2c5f19bb3e22b20ce20579c5c94c6774d01725e6fce3",
+  "version": "2026.11.24.3",
+  "page": "pages/2026.11.24.3.html",
+  "sha256": "b7b850bb74b34b36da68d88ce591086b72e60391d001bd60e75b12481cb63cb4",
   "notes": [
-    "Modules are now called Boxes."
+    "Scanning one item is quicker: the photo isn't cropped automatically. You can still crop it any time."
   ],
-  "sig": "QgzGeXUCmoqVPJ8se4HIZ5/uSfboTd6n9+PHlEOq6ijpy6cIjXVn87g+o/8G8v3ylxUXpPeHVn2v4sq6iyoZCA==",
+  "sig": "ep6ovOUA+lwQr2ZifxUl/U7Pxe4FBv91d7p8cgA6Idiu0Lo5+AeuSOfl/5MYnW9n2ELxvxK451ywssr/Hd2PAQ==",
   "channel": "test",
-  "published": "2026-11-24T07:02:39.220Z"
+  "published": "2026-11-24T08:00:32.196Z"
 }

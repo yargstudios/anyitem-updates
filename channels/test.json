@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.24.3",
-  "page": "pages/2026.11.24.3.html",
-  "sha256": "b7b850bb74b34b36da68d88ce591086b72e60391d001bd60e75b12481cb63cb4",
+  "version": "2026.11.24.4",
+  "page": "pages/2026.11.24.4.html",
+  "sha256": "bc554a1037bf757232b2a17ac429e2fe27e20a957471b8c9d735fb3e8dde92c0",
   "notes": [
     "Scanning one item is quicker: the photo isn't cropped automatically. You can still crop it any time."
   ],
-  "sig": "ep6ovOUA+lwQr2ZifxUl/U7Pxe4FBv91d7p8cgA6Idiu0Lo5+AeuSOfl/5MYnW9n2ELxvxK451ywssr/Hd2PAQ==",
+  "sig": "q6yRqLj5Tx8F1DZw1a3SuYMIbvliGQCehyfURHfFKXdLiLTFRT1mIbJdGcmyOIAR2C9iWAjH26JzFA3Vge0ODQ==",
   "channel": "test",
-  "published": "2026-11-24T08:00:32.196Z"
+  "published": "2026-11-24T08:06:07.898Z"
 }

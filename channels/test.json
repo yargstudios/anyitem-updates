@@ -1,11 +1,12 @@
 {
-  "version": "2026.11.25.1",
-  "page": "pages/2026.11.25.1.html",
-  "sha256": "03d883ac8798c6c82110d0c17e2210df0cc31aeece856ab19148bc9dbd9f4f9c",
+  "version": "2026.11.26.1",
+  "page": "pages/2026.11.26.1.html",
+  "sha256": "0e69df5e521dea5e48e6714958a0fbb409388206c6ccad42aaff6d589592ff9c",
   "notes": [
-    "Automatic changes: every few days, take some away or change an item's status"
+    "The first time you tap a status, you'll see you can make your own",
+    "Box tiles show your own statuses too"
   ],
-  "sig": "mJgZBn7HY7OrxrRIUgqR8ZpWmZR26hAxmVhLDjhFhWETwN54l6NqFNph7VJbnXit38NEuypJlx5zB7CHypNzDQ==",
+  "sig": "sSyKp67ZJh3FleGkmbwnTXOwYlgj9uwYJuU+8EP0cO3H1fQR/5cJI/kyBCLuw9846abZR+ttNfkk9/jjVyG0Dw==",
   "channel": "test",
-  "published": "2026-11-26T00:50:09.068Z"
+  "published": "2026-11-26T07:25:32.102Z"
 }

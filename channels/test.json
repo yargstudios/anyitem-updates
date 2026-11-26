@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.24.15",
-  "page": "pages/2026.11.24.15.html",
-  "sha256": "63a904dadfeb080da945a62a16b54af68d8359e31f4708c9d1aa622e7f1692b7",
+  "version": "2026.11.25.1",
+  "page": "pages/2026.11.25.1.html",
+  "sha256": "03d883ac8798c6c82110d0c17e2210df0cc31aeece856ab19148bc9dbd9f4f9c",
   "notes": [
-    "When adding an item, a category is optional: it can go right in a box"
+    "Automatic changes: every few days, take some away or change an item's status"
   ],
-  "sig": "24DS89voRtW44Qz3LdLW9Fdlo6hKPlCGABtb9liueaIrIFIywT3f9Wqd5m2DPe8gSkAvCWM2NW9A7/WQUkYFCg==",
+  "sig": "mJgZBn7HY7OrxrRIUgqR8ZpWmZR26hAxmVhLDjhFhWETwN54l6NqFNph7VJbnXit38NEuypJlx5zB7CHypNzDQ==",
   "channel": "test",
-  "published": "2026-11-24T12:01:17.917Z"
+  "published": "2026-11-26T00:50:09.068Z"
 }

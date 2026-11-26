@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.26.2",
-  "page": "pages/2026.11.26.2.html",
-  "sha256": "9ab5c6b59d16ba32ec7d572f115a5706a026630d1b762e6e524856f307a52e37",
+  "version": "2026.11.26.3",
+  "page": "pages/2026.11.26.3.html",
+  "sha256": "6092d99534e75ed37f680500c8a7c6309e5367805f9067ff48715f84aae58926",
   "notes": [
-    "Sorting a box now sorts the items that aren't in a category too"
+    "Items that aren't in a category can be folded away"
   ],
-  "sig": "scLgI0AwkyRkQHzhaEBNJY1WzcfXA56zALq9pTkoEG1qHOWvk3z3v1afpX+Vafo3d+Dp6eB52aj3bh0RjJX2CQ==",
+  "sig": "1AKPw1J7ixgc7XoZ02DA09UrEy+5v3wWjoynqQ2KjFxn7AS5mLTn15Bq84QZX+VsuSeZFFoRi9YeLh0ii11BBw==",
   "channel": "test",
-  "published": "2026-11-26T07:36:32.592Z"
+  "published": "2026-11-26T08:21:06.343Z"
 }

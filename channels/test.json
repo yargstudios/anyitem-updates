@@ -1,12 +1,11 @@
 {
-  "version": "2026.11.26.1",
-  "page": "pages/2026.11.26.1.html",
-  "sha256": "0e69df5e521dea5e48e6714958a0fbb409388206c6ccad42aaff6d589592ff9c",
+  "version": "2026.11.26.2",
+  "page": "pages/2026.11.26.2.html",
+  "sha256": "9ab5c6b59d16ba32ec7d572f115a5706a026630d1b762e6e524856f307a52e37",
   "notes": [
-    "The first time you tap a status, you'll see you can make your own",
-    "Box tiles show your own statuses too"
+    "Sorting a box now sorts the items that aren't in a category too"
   ],
-  "sig": "sSyKp67ZJh3FleGkmbwnTXOwYlgj9uwYJuU+8EP0cO3H1fQR/5cJI/kyBCLuw9846abZR+ttNfkk9/jjVyG0Dw==",
+  "sig": "scLgI0AwkyRkQHzhaEBNJY1WzcfXA56zALq9pTkoEG1qHOWvk3z3v1afpX+Vafo3d+Dp6eB52aj3bh0RjJX2CQ==",
   "channel": "test",
-  "published": "2026-11-26T07:25:32.102Z"
+  "published": "2026-11-26T07:36:32.592Z"
 }

@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.26.3",
-  "page": "pages/2026.11.26.3.html",
-  "sha256": "6092d99534e75ed37f680500c8a7c6309e5367805f9067ff48715f84aae58926",
+  "version": "2026.11.26.4",
+  "page": "pages/2026.11.26.4.html",
+  "sha256": "9cde44d6b9cdd279adb08cf3bc6d8db43eded8eb141bedd1d94209f83abc0129",
   "notes": [
-    "Items that aren't in a category can be folded away"
+    "Items that aren't in a category can be dragged into a new order"
   ],
-  "sig": "1AKPw1J7ixgc7XoZ02DA09UrEy+5v3wWjoynqQ2KjFxn7AS5mLTn15Bq84QZX+VsuSeZFFoRi9YeLh0ii11BBw==",
+  "sig": "PEd8u8z1C792zps1QrQF5881+Cl/PojmzkySS+N7sqSZjgp56MIJNnQNKOSzxcEuwDL89/upKMeIsEbfdicPCg==",
   "channel": "test",
-  "published": "2026-11-26T08:21:06.343Z"
+  "published": "2026-11-26T09:02:58.382Z"
 }

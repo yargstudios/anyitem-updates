@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.26.6",
-  "page": "pages/2026.11.26.6.html",
-  "sha256": "74ec5b058728aae28743d4722f0747a298f2207436ac10834469a9349eda5403",
+  "version": "2026.11.26.8",
+  "page": "pages/2026.11.26.8.html",
+  "sha256": "e0a2bb5ed5219825142b38e0960adf577d9254e9b9782e226a02edf759ae6885",
   "notes": [
-    "Items that aren't in a category can be opened in the big view"
+    "Tapping a status always shows the list of statuses"
   ],
-  "sig": "wypeOPU8ogomKlr1p4ZU2WciVMfydi0TBKTC/nXoIZls3VW8HPLMCqbOhxDf7klWBLsUKa2tXe+RFNpJf4FXBA==",
+  "sig": "Q5DZ7f1tqBGs82JsMq9JEtl4dzwAL4Nh4kXXUe25nqiFaem+BVexx3vC4/m35UedbXqS3kpzAGPyL0DRw4IPDw==",
   "channel": "test",
-  "published": "2026-11-26T09:41:18.730Z"
+  "published": "2026-11-26T10:10:34.258Z"
 }

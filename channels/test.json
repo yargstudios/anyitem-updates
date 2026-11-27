@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.26.8",
-  "page": "pages/2026.11.26.8.html",
-  "sha256": "e0a2bb5ed5219825142b38e0960adf577d9254e9b9782e226a02edf759ae6885",
+  "version": "2026.11.27.1",
+  "page": "pages/2026.11.27.1.html",
+  "sha256": "60b8658bbf6b72a91b93a0bedcebd74551c2e01331779c0f67c97b06fb002f62",
   "notes": [
-    "Tapping a status always shows the list of statuses"
+    "Automatic changes can be set up while adding an item"
   ],
-  "sig": "Q5DZ7f1tqBGs82JsMq9JEtl4dzwAL4Nh4kXXUe25nqiFaem+BVexx3vC4/m35UedbXqS3kpzAGPyL0DRw4IPDw==",
+  "sig": "tgH0LZ8JEyf5fBqHsQ7HbqAgugGNqy/2RjGBNDwDmoNqh+/dd4CzaXm47rNnjz2UekmPqvL7gVyGEN8kxVXiAA==",
   "channel": "test",
-  "published": "2026-11-26T10:10:34.258Z"
+  "published": "2026-11-27T16:24:26.524Z"
 }

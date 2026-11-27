@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.27.1",
-  "page": "pages/2026.11.27.1.html",
-  "sha256": "60b8658bbf6b72a91b93a0bedcebd74551c2e01331779c0f67c97b06fb002f62",
+  "version": "2026.11.27.2",
+  "page": "pages/2026.11.27.2.html",
+  "sha256": "3842dd53510a5799dbc9281897dfa8668ba5c78e26060a8dd913e6f9aa6e86d4",
   "notes": [
-    "Automatic changes can be set up while adding an item"
+    "Dragging an item looks right"
   ],
-  "sig": "tgH0LZ8JEyf5fBqHsQ7HbqAgugGNqy/2RjGBNDwDmoNqh+/dd4CzaXm47rNnjz2UekmPqvL7gVyGEN8kxVXiAA==",
+  "sig": "5FBdlFvcYpYQUzrcsNHAbkSnrjIX5+mivqXaPG1gcd5LdxYqr5VYITLUrdIYCoIdNrYcM2OUaj91eISszgdQCA==",
   "channel": "test",
-  "published": "2026-11-27T16:24:26.524Z"
+  "published": "2026-11-27T17:53:34.510Z"
 }
